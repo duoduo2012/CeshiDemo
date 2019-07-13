@@ -97,7 +97,7 @@ public class DashboardView2 extends View {
         mPath = new Path();
         mRectText = new Rect();
 
-        mTexts = new String[]{"350", "较差", "550", "中等", "600", "良好", "650", "优秀", "700", "极好", "950"};
+        mTexts = new String[]{"350122", "较差", "55033", "中等", "600", "良好", "650", "优秀", "700", "极好", "950"};
         mBgColors = new int[]{ContextCompat.getColor(getContext(), R.color.color_red),
                 ContextCompat.getColor(getContext(), R.color.color_orange),
                 ContextCompat.getColor(getContext(), R.color.color_yellow),
